@@ -178,11 +178,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mciha\\Desktop\\guzalliksalonu-main\\Güzellik_salonu\\Güzellik_salonu\\Güzellik_salonu.csproj",
+      "projectUniqueName": "C:\\Users\\mciha\\Desktop\\guzalliksalonu-26a2c3cebf3dcfbc73c086c66e84c416e858824f\\Güzellik_salonu\\Güzellik_salonu\\Güzellik_salonu.csproj",
       "projectName": "Güzellik_salonu",
-      "projectPath": "C:\\Users\\mciha\\Desktop\\guzalliksalonu-main\\Güzellik_salonu\\Güzellik_salonu\\Güzellik_salonu.csproj",
+      "projectPath": "C:\\Users\\mciha\\Desktop\\guzalliksalonu-26a2c3cebf3dcfbc73c086c66e84c416e858824f\\Güzellik_salonu\\Güzellik_salonu\\Güzellik_salonu.csproj",
       "packagesPath": "C:\\Users\\mciha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mciha\\Desktop\\guzalliksalonu-main\\Güzellik_salonu\\Güzellik_salonu\\obj\\",
+      "outputPath": "C:\\Users\\mciha\\Desktop\\guzalliksalonu-26a2c3cebf3dcfbc73c086c66e84c416e858824f\\Güzellik_salonu\\Güzellik_salonu\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

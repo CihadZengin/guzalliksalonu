@@ -38,7 +38,7 @@ namespace Güzellik_salonu
             {
                 using (SqlConnection conn = new SqlConnection("Data Source=.;Initial Catalog=Güzellik_Salonu;Integrated security=true;"))
                 {
-                    string BorcQuery = "select BorcID, MusteriAdi, toplamtutar,odendiodenmedi as [Ödeme Bilgisi] from BorcTbl\r\ninner join Musteri_tbl on MusteriID = MID WHERE MusteriAdi = @madi";
+                    string BorcQuery = "select BorcID, MusteriAdi, toplamtutar,odendiodenmedi as [Ödeme Durumu] from BorcTbl\r\ninner join Musteri_tbl on MusteriID = MID WHERE MusteriAdi = @madi";
                     using (SqlCommand cmd = new SqlCommand(BorcQuery, conn))
                     {
                         cmd.Parameters.AddWithValue("@madi", MusteriAdi); // BURADA musteriadi'yi kullan!
@@ -61,7 +61,7 @@ namespace Güzellik_salonu
             {
                 using (SqlConnection conn = new SqlConnection("Data Source=.;Initial Catalog=Güzellik_Salonu;Integrated security=true;"))
                 {
-                    string BorcQuery = "select BorcID, MusteriAdi, toplamtutar,odendiodenmedi [Ödeme Bilgisi] as from BorcTbl\r\ninner join Musteri_tbl on MusteriID = MID WHERE MusteriAdi = @madi";
+                    string BorcQuery = "select BorcID, MusteriAdi, toplamtutar,odendiodenmedi as [Ödeme Durumu] from BorcTbl\r\ninner join Musteri_tbl on MusteriID = MID WHERE MusteriAdi = @madi";
                     using (SqlCommand cmd = new SqlCommand(BorcQuery, conn))
                     {
                         cmd.Parameters.AddWithValue("@madi", MusteriAdi); // BURADA musteriadi'yi kullan!
