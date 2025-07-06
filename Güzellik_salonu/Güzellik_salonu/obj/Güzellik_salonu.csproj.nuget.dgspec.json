@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Edabi\\OneDrive\\Belgeler\\Güzellik_salonu\\Güzellik_salonu\\Güzellik_salonu.csproj": {}
+    "C:\\Users\\mciha\\Desktop\\guzalliksalonu-main\\Güzellik_salonu\\Güzellik_salonu\\Güzellik_salonu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Edabi\\OneDrive\\Belgeler\\Güzellik_salonu\\Güzellik_salonu\\Güzellik_salonu.csproj": {
+    "C:\\Users\\mciha\\Desktop\\guzalliksalonu-main\\Güzellik_salonu\\Güzellik_salonu\\Güzellik_salonu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Edabi\\OneDrive\\Belgeler\\Güzellik_salonu\\Güzellik_salonu\\Güzellik_salonu.csproj",
+        "projectUniqueName": "C:\\Users\\mciha\\Desktop\\guzalliksalonu-main\\Güzellik_salonu\\Güzellik_salonu\\Güzellik_salonu.csproj",
         "projectName": "Güzellik_salonu",
-        "projectPath": "C:\\Users\\Edabi\\OneDrive\\Belgeler\\Güzellik_salonu\\Güzellik_salonu\\Güzellik_salonu.csproj",
-        "packagesPath": "C:\\Users\\Edabi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Edabi\\OneDrive\\Belgeler\\Güzellik_salonu\\Güzellik_salonu\\obj\\",
+        "projectPath": "C:\\Users\\mciha\\Desktop\\guzalliksalonu-main\\Güzellik_salonu\\Güzellik_salonu\\Güzellik_salonu.csproj",
+        "packagesPath": "C:\\Users\\mciha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mciha\\Desktop\\guzalliksalonu-main\\Güzellik_salonu\\Güzellik_salonu\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Edabi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mciha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -74,7 +74,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

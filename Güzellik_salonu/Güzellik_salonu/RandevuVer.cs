@@ -147,9 +147,9 @@ namespace Güzellik_salonu
                     SqlDataReader reader = command.ExecuteReader();
                     if (reader.Read())
                     {
-                        
-                        decimal originalPrice = Convert.ToDecimal(reader["İslemFiyati"]);
 
+                        txtifiyat.Text = reader["İslemFiyati"].ToString();
+                        con.Close();
 
                     }
                     else
